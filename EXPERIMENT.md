@@ -1,0 +1,5 @@
+- augmentation
+- backbone
+- loss function
+- learning rate
+- lr scheduler

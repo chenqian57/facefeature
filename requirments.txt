@@ -1,0 +1,9 @@
+mxnet-cu102
+onnx
+onnxruntime
+onnx-simplifier
+scikit-learn
+tensorboard
+easydict
+sklearn
+opencv-python
